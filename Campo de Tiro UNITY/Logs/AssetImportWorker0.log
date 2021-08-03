@@ -158,3 +158,24 @@ Received Import Request.
 Start importing Assets/prefabs/p2 (1).prefab using Guid(fd7bf6ea5691dd346bfc0e6615161381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64836f4a5c53b99c0c0707170c46dc2e') in 0.038833 seconds
   Import took 0.045955 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001031 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.322 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 1.826500 ms (FindLiveObjects: 0.150600 ms CreateObjectMapping: 0.045900 ms MarkObjects: 1.559100 ms  DeleteObjects: 0.068900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
